@@ -1,5 +1,5 @@
 # Streamlit-Tutorial
-# SubashPalvel # subashpalvel # subash # palvel # SUBASHPALVEL
+#SubashPalvel #subashpalvel #subash #palvel #SUBASHPALVEL
 
 In the era of data-driven decision making, it has become more important than ever to build intuitive and interactive data visualization applications. While there are many libraries available for data visualization in Python, Streamlit has emerged as a popular choice due to its ease of use and flexibility. With Streamlit, you can quickly create interactive data apps that allow users to explore and analyze data in real-time, without the need for complex coding or web development skills.
 
